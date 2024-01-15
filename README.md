@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasindu Niran</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/HasinduNiran/HasinduNiran/assets/127426411/6b38ef32-0388-4146-affc-24d629977a13)">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasinduniran&label=Profile%20views&color=0e75b6&style=flat" alt="hasinduniran" /> </p>
 
